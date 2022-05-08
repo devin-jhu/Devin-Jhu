@@ -4,6 +4,7 @@
 - ⚡ Fun fact: I love being outside and exploring nature
 
 I can be reached best at devin.jhu@mths.ca
+
 Thanks for coming to visit!
 
 <h2> 📖 Programming Languages I Have Learnt!</h2>
