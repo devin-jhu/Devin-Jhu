@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python and C++
 - ⚡ Fun fact: I love being outside and exploring nature
 
+Currently a student at St. Mother Teresa Highschool
+
 I can be reached best at devin.jhu@mths.ca
 
 Thanks for coming to visit!
