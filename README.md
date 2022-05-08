@@ -26,7 +26,7 @@ I can be reached best at devin.jhu@mths.ca
 
 <h2> ✨ Courses Ive Done! ✨</h2>
   <p> I am currently working to expand my repertoire </p>
-<h2> 👨‍🏫 Courses Im Learning! 🧑‍🏫 </h2>
+<h2> 👨‍🏫 Courses Im Learning! 🏫 </h2>
   <p> Programming Essentials In Python English! </p>
   
 <h2> 🔧 Tools </h2>
@@ -38,9 +38,9 @@ I can be reached best at devin.jhu@mths.ca
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2> 🌌 My Github Overview! 🌌 </h2>
-  <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Devins github stats" src="https://github-readme-stats.vercel.app/api?username=DevinJhu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" </a>
-   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Devins github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinJhu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h2>  My Github Overview!  </h2>
+  <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Devins github stats" src="https://github-readme-stats.vercel.app/api?username=Devin-Jhu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" </a>
+   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Devins github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devin-Jhu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/> 
   
   
